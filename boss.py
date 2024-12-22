@@ -16,7 +16,7 @@ from colorama import Fore, init
 init(autoreset=True)
 
 # Constants
-API_ID = 29886024
+API_ID = 29886028
 API_HASH = '2620cb3eb848ddc6781693862a0f670a'
 SESSIONS_FOLDER = "sessions"
 NUMBERS_FILE = "numbers.txt"
