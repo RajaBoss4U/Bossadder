@@ -1,0 +1,134 @@
+Using pip 24.3.1 from /data/data/com.termux/files/usr/lib/python3.12/site-packages/pip (python 3.12)
+  Link requires a different Python (3.12.8 not in: '<3.11,>=3.6'): https://files.pythonhosted.org/packages/90/8c/3aa36c18d2f05dc85d810b3fdd23dbadee15375b15c75533247347b4bb86/pyinstaller-4.6.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.11,>=3.6)
+  Link requires a different Python (3.12.8 not in: '<3.11,>=3.6'): https://files.pythonhosted.org/packages/00/ca/58dd68fee42490be1c86c9e912fc9ad0bf44c72edd882397ad11c21fbecb/pyinstaller-4.7.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.11,>=3.6)
+  Link requires a different Python (3.12.8 not in: '<3.11,>=3.6'): https://files.pythonhosted.org/packages/7f/6b/688fceb8f1fafeb028de72ad47c5b1377be9f74a75801802f1463e451b22/pyinstaller-4.8.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.11,>=3.6)
+  Link requires a different Python (3.12.8 not in: '<3.11,>=3.6'): https://files.pythonhosted.org/packages/47/88/cbc8ee5a300988e67f54f0366fd4d74a01f24caff75b5dd5139c0c6223f3/pyinstaller-4.9.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.11,>=3.6)
+  Link requires a different Python (3.12.8 not in: '<3.11,>=3.6'): https://files.pythonhosted.org/packages/b0/e6/e5760666896739115b0e4538a42cdd895215581618ec885ad043dd35ee57/pyinstaller-4.10.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.11,>=3.6)
+  Link requires a different Python (3.12.8 not in: '<3.11,>=3.7'): https://files.pythonhosted.org/packages/cf/b0/69585629b023056e801a99ee4d669e2d3b85fb5a68fe461c1660af9ea514/pyinstaller-5.0.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.11,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.11,>=3.7'): https://files.pythonhosted.org/packages/ad/09/82d3f066eddb9ab3cbed8284a0bda84a93806ff2c44536474841a98ae0e7/pyinstaller-5.0.1.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.11,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.11,>=3.7'): https://files.pythonhosted.org/packages/c9/41/fbb2f0e6e1934a47a99295d67ba178477f8809ae939c96608c711596f478/pyinstaller-5.1.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.11,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.11,>=3.7'): https://files.pythonhosted.org/packages/9c/b1/5c9cf5bceade92613196b1be4b9cc1406e82d9edadb3c682da860be96cea/pyinstaller-5.2.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.11,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.11,>=3.7'): https://files.pythonhosted.org/packages/7f/48/a60502c14ebafd3c1af193865141ede851591401287ce739816c99d12af2/pyinstaller-5.3.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.11,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.11,>=3.7'): https://files.pythonhosted.org/packages/4c/22/2f7a5308dcbf8baad514bfd8a7d453f133cf35b52055ab1668ced59e3ac5/pyinstaller-5.4.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.11,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.11,>=3.7'): https://files.pythonhosted.org/packages/18/9e/dbee87c405633be8ae926520d5e91c29cd76c969328ad4c724e6983e2b58/pyinstaller-5.4.1.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.11,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.12,>=3.7'): https://files.pythonhosted.org/packages/1e/d7/214b25c912d5f7d9c31d266821a8be6a35df80535056fe83997688721927/pyinstaller-5.5.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.12,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.12,>=3.7'): https://files.pythonhosted.org/packages/fa/92/b4970de16530fe2bfd0dee6e8bea88b752bf7913dcb45ac23ec0627434e8/pyinstaller-5.6.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.12,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.12,>=3.7'): https://files.pythonhosted.org/packages/04/96/d7a4bc8c035f1069f9c9c34696860ef5be3bf6bd69131c6711e55176d5e9/pyinstaller-5.6.1.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.12,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.12,>=3.7'): https://files.pythonhosted.org/packages/36/95/32b67f2b6945c34400524284e582025269cf992c6994ff36ed8899e4cf58/pyinstaller-5.6.2.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.12,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.12,>=3.7'): https://files.pythonhosted.org/packages/13/2e/bc4c0026659cea46aca867f4d71e8bab5a6430b4c005c51e174da5e6e4a2/pyinstaller-5.7.0.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.12,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.12,>=3.7'): https://files.pythonhosted.org/packages/63/20/cfb61921d7db3e8473440091ac99ae900357f26197502ab7ec9ff6473ca5/pyinstaller-5.8.0.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.12,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.12,>=3.7'): https://files.pythonhosted.org/packages/87/0b/0b9cfa5ed2ffcb9f3ae4335c436e4e250a5ea4c4d7dac4a693ed7f2b14dd/pyinstaller-5.9.0.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.12,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.12,>=3.7'): https://files.pythonhosted.org/packages/0f/22/80d551593c1429a7f56680eecffe9b1c7e2b47b0d3a82feaa35fa5efeb74/pyinstaller-5.10.0.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.12,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.12,>=3.7'): https://files.pythonhosted.org/packages/51/37/2e0195ef4e4dec35e3f116361c4c780e0c4cd2cd96079199b3218c08fabb/pyinstaller-5.10.1.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.12,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.12,>=3.7'): https://files.pythonhosted.org/packages/b7/8b/ac00e4b615aea76c3b3d61592791ed739468ab6d27e314f6ad24e02bdd0f/pyinstaller-5.11.0.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.12,>=3.7)
+  Link requires a different Python (3.12.8 not in: '<3.12,>=3.7'): https://files.pythonhosted.org/packages/fb/f8/a0bfbf01945821c5d9887ecef8ee6a25c1373339ab75ddc3e7a8dbc99ce3/pyinstaller-5.12.0.tar.gz (from https://pypi.org/simple/pyinstaller/) (requires-python:<3.12,>=3.7)
+Collecting pyinstaller
+  Downloading pyinstaller-6.11.1.tar.gz (4.2 MB)
+     ━━━━━━          1.8/4.2 MB 43.7 kB/s eta 0:00:56
+ERROR: Exception:
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_vendor/urllib3/response.py", line 438, in _error_catcher
+    yield
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_vendor/urllib3/response.py", line 561, in read
+    data = self._fp_read(amt) if not fp_closed else b""
+           ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_vendor/urllib3/response.py", line 527, in _fp_read
+    return self._fp.read(amt) if amt is not None else self._fp.read()
+           ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 479, in read
+    s = self.fp.read(amt)
+        ^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/socket.py", line 720, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/ssl.py", line 1251, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/ssl.py", line 1103, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/cli/base_command.py", line 105, in _run_wrapper
+    status = _inner_run()
+             ^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/cli/base_command.py", line 96, in _inner_run
+    return self.run(options, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/cli/req_command.py", line 67, in wrapper
+    return func(self, options, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/commands/install.py", line 393, in run
+    requirement_set = resolver.resolve(
+                      ^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/resolver.py", line 95, in resolve
+    result = self._result = resolver.resolve(
+                            ^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_vendor/resolvelib/resolvers.py", line 546, in resolve
+    state = resolution.resolve(requirements, max_rounds=max_rounds)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_vendor/resolvelib/resolvers.py", line 397, in resolve
+    self._add_to_criteria(self.state.criteria, r, parent=None)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_vendor/resolvelib/resolvers.py", line 173, in _add_to_criteria
+    if not criterion.candidates:
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_vendor/resolvelib/structs.py", line 156, in __bool__
+    return bool(self._sequence)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py", line 174, in __bool__
+    return any(self)
+           ^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py", line 162, in <genexpr>
+    return (c for c in iterator if id(c) not in self._incompatible_ids)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py", line 53, in _iter_built
+    candidate = func()
+                ^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/factory.py", line 187, in _make_candidate_from_link
+    base: Optional[BaseCandidate] = self._make_base_candidate_from_link(
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/factory.py", line 233, in _make_base_candidate_from_link
+    self._link_candidate_cache[link] = LinkCandidate(
+                                       ^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/candidates.py", line 304, in __init__
+    super().__init__(
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/candidates.py", line 159, in __init__
+    self.dist = self._prepare()
+                ^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/candidates.py", line 236, in _prepare
+    dist = self._prepare_distribution()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/candidates.py", line 315, in _prepare_distribution
+    return preparer.prepare_linked_requirement(self._ireq, parallel_builds=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/operations/prepare.py", line 527, in prepare_linked_requirement
+    return self._prepare_linked_requirement(req, parallel_builds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/operations/prepare.py", line 598, in _prepare_linked_requirement
+    local_file = unpack_url(
+                 ^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/operations/prepare.py", line 170, in unpack_url
+    file = get_http_url(
+           ^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/operations/prepare.py", line 111, in get_http_url
+    from_path, content_type = download(link, temp_dir.path)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/network/download.py", line 148, in __call__
+    for chunk in chunks:
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/cli/progress_bars.py", line 55, in _rich_progress_bar
+    for chunk in iterable:
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_internal/network/utils.py", line 65, in response_chunks
+    for chunk in response.raw.stream(
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_vendor/urllib3/response.py", line 622, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_vendor/urllib3/response.py", line 560, in read
+    with self._error_catcher():
+  File "/data/data/com.termux/files/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/pip/_vendor/urllib3/response.py", line 443, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.")
+pip._vendor.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='files.pythonhosted.org', port=443): Read timed out.
